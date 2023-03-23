@@ -12,6 +12,6 @@ int main() {
 	scanf("%s", &name);
 
 	printf("\nI knew that %s, Anyway... With their weapon in hand,"
-			"\nthe samurai sprung forth, and with a wide swing of their sword...\n", name);
+	       "\nthe samurai sprung forth, and with a wide swing of their sword...\n", name);
 	return 0;
 }
